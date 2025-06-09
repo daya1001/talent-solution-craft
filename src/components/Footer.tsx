@@ -1,4 +1,3 @@
-
 import { Separator } from "@/components/ui/separator";
 import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from "lucide-react";
 
@@ -8,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6 py-12">
         <div className="grid md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">TalentSolution</h3>
+            <h3 className="text-2xl font-bold mb-4">TalentSolutions</h3>
             <p className="text-primary-foreground/80 mb-6 max-w-md">
               Your trusted partner for manpower consultancy and software development solutions. Building bridges between talent and technology.
             </p>
@@ -41,7 +40,7 @@ const Footer = () => {
             <div className="space-y-3 text-primary-foreground/80">
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">info@talentsolution.com</span>
+                <span className="text-sm">info@talensolutionss.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4" />
@@ -58,7 +57,7 @@ const Footer = () => {
         <Separator className="my-8 bg-primary-foreground/20" />
 
         <div className="flex flex-col md:flex-row justify-between items-center text-sm text-primary-foreground/60">
-          <p>&copy; 2024 TalentSolution. All rights reserved.</p>
+          <p>&copy; 2024 TalentSolutions. All rights reserved.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <span className="hover:text-primary-foreground cursor-pointer transition-colors">Privacy Policy</span>
             <span className="hover:text-primary-foreground cursor-pointer transition-colors">Terms of Service</span>

@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Award, Target, Heart, TrendingUp } from "lucide-react";
 
@@ -39,7 +38,7 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              About TalentSolution
+              About TalentSolutions
             </h2>
             <p className="text-xl text-muted-foreground leading-relaxed">
               With over a decade of experience, we bridge the gap between exceptional talent and innovative technology solutions. Our dual expertise in manpower consultancy and software development makes us your ideal partner for comprehensive business growth.

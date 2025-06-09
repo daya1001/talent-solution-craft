@@ -10,7 +10,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: "info@talentsolution.com",
+      details: "info@talensolutionss.com",
       subtext: "24/7 support available"
     },
     {

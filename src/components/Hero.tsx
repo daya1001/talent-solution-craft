@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Users, Code } from "lucide-react";
 
@@ -13,7 +12,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8 animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-              TalentSolution
+              TalentSolutions
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">
               Your Premier Partner for Manpower Consultancy & Software Development Solutions
